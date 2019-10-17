@@ -17,12 +17,22 @@ Siriショートカットの説明は、こちらのサイトが参考になり�
 https://jp.appbase.info/shortcuts/#sec6
 
 # 自分用にカスタマイズする
+上記の共有URLをiPhoneで開くと、下記のような画面が開きます。  
+黄色マーカーの部分がショートカット名になります。  
+ショートカット名がSiriを呼び出す言葉になります。  
+「出勤します」とか、「出勤打刻して」とか好きに命名ください。
+![heysiri01](https://user-images.githubusercontent.com/34472719/66984615-fcc60380-f0f5-11e9-9628-e99ef35a4b97.jpg)
 
+下にスクロールして、ショートカットを追加をタップ
+![heysiri02](https://user-images.githubusercontent.com/34472719/66984613-fcc60380-f0f5-11e9-8f95-e8f2f348f1c1.jpg)
 
-Hey Siriに反応させる方法
+マイショートカットの一覧に、追加したショートカットを探し、  
+右上の「・・・」をタップ
+![heysiri03](https://user-images.githubusercontent.com/34472719/66984612-fcc60380-f0f5-11e9-8ebb-941f742d59fc.jpg)
 
-![スライド2.JPG](/knowledge/open.file/download?fileNo=408)
- 
-なお、iPhoneのバージョンが、12以上でないとそもそも「ショートカット」アプリがインストールされていないので、アップデートしてくださいませ。
+黄色マーカーの部分を、自分のIDとPASSに書き換えて、完了を押したら完成です。
+![heysiri04](https://user-images.githubusercontent.com/34472719/66984609-fc2d6d00-f0f5-11e9-8de6-db99c3620e50.jpg)
 
-以上
+# ショートカットが使えるiOSバージョン
+iOS12以上でないと使えない？ようです。
+最新の13にしておくと良いと思います。
