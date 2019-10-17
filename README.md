@@ -3,7 +3,7 @@ LT大会で言っていた、Hey SiriでWEB打刻してくれるショートカ�
 イチから作ると大変なので、下地をつくりました。  
 下記の共有URLからマイショートカットに追加してください。  
 ### 出勤
-https://www.icloud.com/shortcuts/537e35333d834aa98fbcb93b29b5e602
+https://www.icloud.com/shortcuts/2ab2d063f68b49e1b5f10d5908046710
 ### 退勤
 https://www.icloud.com/shortcuts/944a518665f6471cb80f2e6d6398c2c2
 
@@ -34,5 +34,4 @@ https://jp.appbase.info/shortcuts/#sec6
 ![heysiri04](https://user-images.githubusercontent.com/34472719/66984609-fc2d6d00-f0f5-11e9-8de6-db99c3620e50.jpg)
 
 # ショートカットが使えるiOSバージョン
-iOS12以上でないと使えない？ようです。
-最新の13にしておくと良いと思います。
+最新の13にしないと追加できないようです
