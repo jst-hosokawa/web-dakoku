@@ -13,6 +13,11 @@ https://www.icloud.com/shortcuts/944a518665f6471cb80f2e6d6398c2c2
 下記のサイトを参考に、オンにしてからお試しください。  
 https://jp.appbase.info/share-shortcut/
 
+「信頼されていないショートカットを許可」が表示されない場合、
+何かしらのショートカットを実行すると出てくるようです。うーん謎仕様
+参考URLを張っておきます。
+https://gori.me/iphone/iphone-tips/121906
+
 Siriショートカットの説明は、こちらのサイトが参考になりました。  
 https://jp.appbase.info/shortcuts/#sec6
 
