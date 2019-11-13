@@ -3,10 +3,11 @@ LT大会で言っていた、Hey SiriでWEB打刻してくれるショートカ�
 イチから作ると大変なので、下地をつくりました。  
 下記の共有URLからマイショートカットに追加してください。  
 ### 出勤
-https://www.icloud.com/shortcuts/961e181756dd467d81ce3dbc8d6b59b5
+（iOS 12向け）https://www.icloud.com/shortcuts/961e181756dd467d81ce3dbc8d6b59b5  
+（iOS 13向け）https://www.icloud.com/shortcuts/74548cd7f9cc4e98a794feb54dd9a1a6
 ### 退勤
-https://www.icloud.com/shortcuts/621099334fe2491d912ffce23d43fcbd
-
+（iOS 12向け）https://www.icloud.com/shortcuts/621099334fe2491d912ffce23d43fcbd  
+（iOS 13向け）https://www.icloud.com/shortcuts/74548cd7f9cc4e98a794feb54dd9a1a6
 ### 注意！
 公式のショートカットではない（細川が自作した）ので、
 「信頼されていないショートカットに許可」をオンにしないと追加できないようです。
