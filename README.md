@@ -24,7 +24,8 @@ https://jp.appbase.info/shortcuts/#sec6
 # 自分用にカスタマイズする
 上記の共有URLをiPhoneで開くと、下記のような画面が開きます。  
 黄色マーカーの部分がショートカット名になります。
-![heysiri01](https://user-images.githubusercontent.com/34472719/66984615-fcc60380-f0f5-11e9-9628-e99ef35a4b97.jpg)
+<img src="https://user-images.githubusercontent.com/34472719/66984615-fcc60380-f0f5-11e9-9628-e99ef35a4b97.jpg" width="100">
+
 （iOS13の場合）
 ショートカット名がSiriを呼び出す言葉になります。  
 「出勤します」とか、「出勤打刻して」とか好きに命名ください。
