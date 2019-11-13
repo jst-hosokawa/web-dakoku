@@ -39,8 +39,8 @@ https://jp.appbase.info/shortcuts/#sec6
 右上の「・・・」をタップ
 ![heysiri03](https://user-images.githubusercontent.com/34472719/66984612-fcc60380-f0f5-11e9-8ebb-941f742d59fc.jpg)
 
-黄色マーカーの部分（テキスト）を、それぞれ自分のIDとPASSに書き換えて、完了を押したら完成です。
-![heysiri04](https://user-images.githubusercontent.com/34472719/66984609-fc2d6d00-f0f5-11e9-8de6-db99c3620e50.jpg)
+赤マーカーの部分（テキスト）を、それぞれ自分のIDとPASSに書き換えて、完了を押したら完成です。
+![File (3)](https://user-images.githubusercontent.com/34472719/68751747-785b9780-0645-11ea-9a4c-a81982e7ccfd.jpg)
 
 # ショートカットが使えるiOSバージョン
 最新の12以上にしないとアプリ自体が使えません
