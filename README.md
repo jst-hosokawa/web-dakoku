@@ -24,24 +24,28 @@ https://jp.appbase.info/shortcuts/#sec6
 # 自分用にカスタマイズする
 上記の共有URLをiPhoneで開くと、下記のような画面が開きます。  
 黄色マーカーの部分がショートカット名になります。
-<img src="https://user-images.githubusercontent.com/34472719/66984615-fcc60380-f0f5-11e9-9628-e99ef35a4b97.jpg" width="100">
 
-（iOS13の場合）
+<img src="https://user-images.githubusercontent.com/34472719/66984615-fcc60380-f0f5-11e9-9628-e99ef35a4b97.jpg" width="500">
+
+（iOS13の場合）  
 ショートカット名がSiriを呼び出す言葉になります。  
-「出勤します」とか、「出勤打刻して」とか好きに命名ください。
-（iOS12の場合）
-下記の手順で、Siriに話しかけて登録してください
-※事前にSiri自体を有効にしておく必要があります
+「出勤します」とか、「出勤打刻して」とか好きに命名ください。  
 
-下にスクロールして、ショートカットを追加をタップ
-![heysiri02](https://user-images.githubusercontent.com/34472719/66984613-fcc60380-f0f5-11e9-8f95-e8f2f348f1c1.jpg)
+（iOS12の場合）  
+下記の手順で、Siriに話しかけて登録してください  
+※事前にSiri自体を有効にしておく必要があります  
 
-マイショートカットの一覧に、追加したショートカットを探し、  
-右上の「・・・」をタップ
-![heysiri03](https://user-images.githubusercontent.com/34472719/66984612-fcc60380-f0f5-11e9-8ebb-941f742d59fc.jpg)
+下にスクロールして、ショートカットを追加をタップ  
 
-赤マーカーの部分（テキスト）を、それぞれ自分のIDとPASSに書き換えて、完了を押したら完成です。
-![File (3)](https://user-images.githubusercontent.com/34472719/68751747-785b9780-0645-11ea-9a4c-a81982e7ccfd.jpg)
+<img src="https://user-images.githubusercontent.com/34472719/66984613-fcc60380-f0f5-11e9-8f95-e8f2f348f1c1.jpg" width="500">
+
+マイショートカットの一覧に、追加したショートカットを探し、右上の「・・・」をタップ  
+
+<img src="https://user-images.githubusercontent.com/34472719/66984612-fcc60380-f0f5-11e9-8ebb-941f742d59fc.jpg" width="500">
+
+赤マーカーの部分（テキスト）を、それぞれ自分のIDとPASSに書き換えて、完了を押したら完成です。 
+
+<img src="https://user-images.githubusercontent.com/34472719/68751747-785b9780-0645-11ea-9a4c-a81982e7ccfd.jpg" width="500">
 
 # ショートカットが使えるiOSバージョン
 最新の12以上にしないとアプリ自体が使えません
